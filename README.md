@@ -1,4 +1,4 @@
-# School_Basic_Survey_High_school_-full-time,_part-time-
+# school_basic_survey_high_school_-full-time_part-time-
 　【和歌山県　学校基本調査 です。】
 ◆はじめに
 学校基本調査は、文部科学省所管により昭和23年以来毎年全国一斉に実施しているものです。 
